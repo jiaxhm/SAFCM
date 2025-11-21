@@ -4,6 +4,8 @@ Abstract—The unsupervised fuzzy c-means clustering algorithm has been extensiv
 tiveness of the SAFCM, we conduct experiments on HSI data sets. These results demonstrate that the SAFCM outperforms current state-of-the-art methods.
 
 <img width="3685" height="1545" alt="Fig1" src="https://github.com/user-attachments/assets/1f13a9ee-de94-4a53-94bb-86924615e42a" />
+
+
 Fig. 1 The framework of SAFCM incorporates superpixel generation and segmentation for HSI.
 
 
