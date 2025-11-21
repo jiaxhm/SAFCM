@@ -20,6 +20,7 @@ tiveness of the SAFCM, we conduct experiments on HSI data sets. These results
 <img width="3685" height="1545" alt="Fig1" src="https://github.com/user-attachments/assets/1f13a9ee-de94-4a53-94bb-86924615e42a" />
 Fig. 1 The framework of SAFCM incorporates superpixel generation and segmentation for HSI.
 
+
 In this paper, we apply a simple yet very effective principal component analysis (PCA) to extract the most representative bands of HSI, maximizing the total vari
 ance and revealing intrinsic low-dimensional features. The PCA considers only the
  spectral signature of each pixel, whereas the FCM variant focuses exclusively on local
