@@ -5,7 +5,8 @@ tiveness of the SAFCM, we conduct experiments on HSI data sets. These results de
 
 <img width="3685" height="1545" alt="Fig1" src="https://github.com/user-attachments/assets/1f13a9ee-de94-4a53-94bb-86924615e42a" />
 Fig. 1 The framework of SAFCM incorporates superpixel generation and segmentation for HSI.
-#  
+
+
 In this paper, we apply a simple yet very effective principal component analysis (PCA) to extract the most representative bands of HSI, maximizing the total variance and revealing intrinsic low-dimensional features. The PCA considers only the spectral signature of each pixel, whereas the FCM variant focuses exclusively on local differences. To address this limitation, we propose a super spatial perceptive strategy to improve classification accuracy. Fig. 1 shows the schematic of super-aware fuzzy c means clustering (SAFCM) applied to the first three principal components (3 PCs) of HSI.
 
 # 📚 Cite Us
