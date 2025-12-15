@@ -21,4 +21,4 @@ In this paper, we apply a simple yet very effective principal component analysis
   journal={International Journal of Fuzzy Systems}, 
   title={Super-Aware Fuzzy C-Means Clustering for Hyperspectral Image Segmentation}, 
   keywords={Fuzzy c-means clustering, Hyperspectral image, Superpixels, Segmentation},
-  doi={}}
+  doi={10.1007/s40815-025-02201-y}}
